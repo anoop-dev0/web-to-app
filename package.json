@@ -1,0 +1,28 @@
+{
+  "name": "web-to-app",
+  "version": "1.0.0",
+  "description": "A portal to convert any website to an app",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anoop-dev0/web-to-app.git"
+  },
+  "keywords": [
+    "web-app",
+    "app-generator",
+    "web-app-generator"
+  ],
+  "author": "Anoop Kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anoop-dev0/web-to-app/issues"
+  },
+  "homepage": "https://github.com/anoop-dev0/web-to-app#readme",
+  "devDependencies": {
+    "electron": "^16.0.5"
+  }
+}
